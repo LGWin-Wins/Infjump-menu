@@ -12,7 +12,7 @@ local InfiniteJump = Instance.new("TextButton")
 local infjumpenabled = false
 --Properties:
 
-InfJumpGui.Name = "Noodelts InfJumpGui"
+InfJumpGui.Name = "Noodelt"
 InfJumpGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 InfJumpGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -33,7 +33,7 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.BackgroundTransparency = 1.000
 TextLabel.Size = UDim2.new(0.92806381, 0, 1, 0)
 TextLabel.Font = Enum.Font.Code
-TextLabel.Text = "Infinite Jump by noodelt"
+TextLabel.Text = "Infinite Jump by Noodelt"
 TextLabel.TextColor3 = Color3.fromRGB(74, 74, 74)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14.000
