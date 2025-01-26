@@ -12,7 +12,7 @@ local InfiniteJump = Instance.new("TextButton")
 local infjumpenabled = false
 --Properties:
 
-InfJumpGui.Name = "Noodelt"
+InfJumpGui.Name = "Random"
 InfJumpGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 InfJumpGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
